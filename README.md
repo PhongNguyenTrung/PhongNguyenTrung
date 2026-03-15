@@ -5,6 +5,6 @@
 Vietnamese name **Phong**, English name **Paul**.
 Building software and improving a little every day.
 
-### 💬 Quote
-
-> Be better than yourselves yesterday.
+### ✨ Philosophy
+> **Be better than yourself yesterday.**  
+> Small progress every day creates big change.
