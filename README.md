@@ -1,7 +1,7 @@
-# Hi 👋 I'm Phong (Paul)
+# Hi, I'm Phong (Paul)
 
 💻 Software Engineer | ☕ Ruby Lover | 🤖 ML Learner
 
-### ✨ Philosophy
+### My Philosophy
 > **Be better than yourself yesterday.**  
 > Small progress every day creates big change.
