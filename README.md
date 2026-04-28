@@ -10,16 +10,12 @@
 
 </div>
 
----
-
 ## Philosophy
 
 > **Be better than yourself yesterday.**
 > Small, consistent progress compounds into something great.
 
 I build software with care — clean code, thoughtful architecture, and a bias toward simplicity. Alongside engineering, I'm actively exploring the AI space: understanding how models work, how to build with them, and where they're heading.
-
----
 
 ## Tech Stack
 
@@ -56,8 +52,6 @@ I build software with care — clean code, thoughtful architecture, and a bias t
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=googleads&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat&logo=meta&logoColor=white)
 
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -69,8 +63,6 @@ I build software with care — clean code, thoughtful architecture, and a bias t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-envato&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
-
----
 
 <div align="center">
 
