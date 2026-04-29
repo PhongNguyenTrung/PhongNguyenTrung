@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Phong (Paul) 👋
+# Hi, I'm Paul Nguyen 👋
 
 **Software Engineer · Ruby on Rails · Full-Stack**
 
