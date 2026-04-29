@@ -55,13 +55,12 @@ I build software with care — clean code, thoughtful architecture, and a bias t
 ## GitHub Activity
 
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PhongNguyenTrung&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhongNguyenTrung&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paul-envato&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=paul-envato&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-envato&layout=compact&theme=github_dark&hide_border=true)
-
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=PhongNguyenTrung&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
