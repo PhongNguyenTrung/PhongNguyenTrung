@@ -55,12 +55,17 @@ I build software with care — clean code, thoughtful architecture, and a bias t
 ## GitHub Activity
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PhongNguyenTrung&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhongNguyenTrung&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhongNguyenTrung&theme=github_dark" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhongNguyenTrung&theme=github_dark" alt="Most Commit Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=PhongNguyenTrung&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhongNguyenTrung&theme=github_dark" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhongNguyenTrung&theme=github_dark&utcOffset=7" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=PhongNguyenTrung&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
